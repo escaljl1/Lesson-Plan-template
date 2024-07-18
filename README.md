@@ -1,4 +1,4 @@
-# Lesson Plan Template
+# _Lesson Plan Template_
 This file serves as the primary lesson plan document for the repository.
 
 ## Template Description
